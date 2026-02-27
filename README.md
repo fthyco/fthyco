@@ -35,15 +35,6 @@ Currently expanding into distributed processing and system design.
 
 ---
 
-## GitHub Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fthyco&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fthyco&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## Contribution Streak
 
 <p align="center">
