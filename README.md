@@ -1,16 +1,59 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.jpg" width="100%" />
+</p>
+<h1 align="center">Muhammad Fathy</h1>
+<p align="center">
+Data Engineering • Backend Systems • Distributed Thinking
+</p>
 
-<!--
-**fthyco/fthyco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Data+Pipelines;Designing+Scalable+Systems;Statistical+Thinking;Continuous+Learning&center=true&width=600&height=45" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Direction
+
+I focus on engineering data systems and optimizing the resources through the efficiency.
+
+- Data pipelines & ETL design  
+- Backend architecture  
+- Database internals  
+- Applied statistics in production  
+
+---
+
+## Technical Stack
+
+Python
+PostgreSQL  
+Docker  
+Git  
+Linux  
+
+Currently expanding into distributed processing and system design.
+
+---
+
+## GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fthyco&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fthyco&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=fthyco&theme=tokyonight" />
+</p>
+
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/fthyco  
+GitHub: https://github.com/fthyco  
