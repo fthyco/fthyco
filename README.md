@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" width="100%" />
+  <img src="banner.jpg" width="100%" />
 </p>
 <h1 align="center">Muhammad Fathy</h1>
 <p align="center">
