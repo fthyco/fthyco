@@ -35,20 +35,5 @@
       path="M0,250 L150,230 L300,260 L450,210 L600,240 L750,200 L900,230 L1050,190 L1200,220"/>
   </circle>
 
-  <!-- Main Title -->
-  <text x="50%" y="45%" text-anchor="middle"
-        fill="#e2e8f0"
-        font-size="48"
-        font-family="monospace">
-        Muhammad Fathy
-  </text>
-
-  <!-- Subtitle -->
-  <text x="50%" y="62%" text-anchor="middle"
-        fill="#94a3b8"
-        font-size="22"
-        font-family="monospace">
-        Data Engineering • Backend Systems • Distributed Architecture
-  </text>
 
 </svg>
