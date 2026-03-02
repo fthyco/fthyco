@@ -7,11 +7,13 @@ Data Engineering • Backend Systems • Distributed Thinking
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+Data+Pipelines;Designing+Scalable+Systems;Statistical+Thinking;Continuous+Learning&center=true&width=600&height=45" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building;Designing+Scalable+Systems;systematic+Thinking;Continuous+Learning&center=true&width=600&height=45" />
 </p>
 
 ---
-Currently expanding into distributed processing and system design.
+
+Currently expanding into distributed processing and system design.\
+
 ---
 
 ## Contribution Streak
@@ -21,5 +23,6 @@ Currently expanding into distributed processing and system design.
 </p>
 
 ---
+
 LinkedIn: https://www.linkedin.com/in/fthyco  
 GitHub: https://github.com/fthyco  
