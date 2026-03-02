@@ -11,28 +11,7 @@ Data Engineering • Backend Systems • Distributed Thinking
 </p>
 
 ---
-
-## Direction
-
-I focus on engineering data systems and optimizing the resources through the efficiency.
-
-- Data pipelines & ETL design  
-- Backend architecture  
-- Database internals  
-- Applied statistics in production  
-
----
-
-## Technical Stack
-
-Python
-PostgreSQL  
-Docker  
-Git  
-Linux  
-
 Currently expanding into distributed processing and system design.
-
 ---
 
 ## Contribution Streak
@@ -41,10 +20,6 @@ Currently expanding into distributed processing and system design.
   <img src="https://streak-stats.demolab.com/?user=fthyco&theme=tokyonight" />
 </p>
 
-
 ---
-
-## Contact
-
 LinkedIn: https://www.linkedin.com/in/fthyco  
 GitHub: https://github.com/fthyco  
