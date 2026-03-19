@@ -1,7 +1,7 @@
 <p align="center">
   <img src="banner.jpg" width="100%" />
 </p>
-<h1 align="center">Muhammad Fathy</h1>
+<h1 align="center">Malik</h1>
 <p align="center">
 Data Engineering • Backend Systems • Distributed Thinking
 </p>
