@@ -1,22 +1,49 @@
 <p align="center">
   <img src="banner.svg" width="100%" />
 </p>
+
 <h1 align="center">Malik</h1>
+
 <p align="center">
-Data Engineering • Backend Systems • Distributed Thinking
+Data Engineering · Backend Systems · Distributed Architectures
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building;Designing+Scalable+Systems;systematic+Thinking;Continuous+Learning&center=true&width=600&height=45" />
+  Building systems that scale, fail gracefully, and think in data.
 </p>
 
 ---
 
-Currently expanding into distributed processing and system design.\
+## About
+
+I focus on designing and building data-intensive systems.
+
+My work sits at the intersection of:
+- Data pipelines & processing
+- Backend architecture
+- Distributed systems thinking
+
+I care about correctness, performance, and clarity — not just making things work, but making them **understandable and scalable**.
 
 ---
 
-## Contribution Streak
+## Current Focus
+
+- Distributed data processing (batch + streaming)
+- System design patterns at scale
+- Data-driven backend architectures
+
+---
+
+## Principles
+
+- Systems > Scripts  
+- Thinking > Tooling  
+- Clarity > Complexity  
+
+---
+
+## Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=fthyco&theme=tokyonight" />
@@ -24,5 +51,7 @@ Currently expanding into distributed processing and system design.\
 
 ---
 
-LinkedIn: https://www.linkedin.com/in/fthyco  
-GitHub: https://github.com/fthyco  
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/fthyco  
+- GitHub: https://github.com/fthyco
