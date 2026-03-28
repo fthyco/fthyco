@@ -13,7 +13,6 @@
 </p>
 
 <br/>
-
 ```
 Every system is a thought.
 Every pipeline is a decision.
@@ -24,44 +23,32 @@ Every byte has a place.
 
 ## `$ whoami`
 
-> Building data infrastructure that scales.  
-> Designing backend systems that don't break under pressure.  
-> Currently expanding into distributed processing and system design.
+Data engineer building infrastructure that scales and doesn't apologize for it.  
+Currently deep in distributed systems and stream processing.
 
 <br/>
 
 ## `$ ls skills/`
-
 ```
-languages/        → Python  SQL  Bash
-data/             → Pipelines  ETL  Data Modeling  Warehousing
-backend/          → APIs  System Design  Database Engineering
-currently/        → Distributed Systems  Stream Processing
+Python · SQL · Bash
+ETL / ELT · Data Modeling · Warehousing
+APIs · System Design · Database Engineering
 ```
 
 <br/>
 
-## `$ git log --stat`
+## `$ git log`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=fthyco&theme=tokyonight&hide_border=true&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fthyco&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00B4D8&title_color=00B4D8" />
-</p>
-
 <br/>
 
 ## `$ cat contact.txt`
-
 ```
 LinkedIn  →  linkedin.com/in/fthyco
 GitHub    →  github.com/fthyco
 ```
 
 <br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=01000010+01010101+01001001+01001100+01000100+01001001+01001110+01000111...&center=true&width=500&height=30&font=Courier+New&color=00B4D8&size=14" />
-</p>
