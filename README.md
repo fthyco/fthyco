@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <code>Data Engineering</code> &nbsp;·&nbsp; <code>Backend Systems</code> &nbsp;·&nbsp; <code>Distributed Thinking</code>
+  <code>Data intefrity</code> &nbsp;·&nbsp; <code>Backend Systems</code> &nbsp;·&nbsp; <code>Distributed Thinking</code>
 </p>
 
 <br/>
@@ -23,8 +23,7 @@ Every byte has a place.
 
 ## `$ whoami`
 
-Data engineer building infrastructure that scales and doesn't apologize for it.  
-Currently deep in distributed systems and stream processing.
+Third-year Statistics and Computer Science student at Helwan University with a strong mathematical foundation in statistical modeling, machine learning, and data engineering. Built production-grade pipelines processing with end-to-end systems and real-time simulation. Interested in the intersection of statistical rigor and applied data science.
 
 <br/>
 
