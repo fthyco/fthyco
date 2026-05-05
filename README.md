@@ -9,7 +9,7 @@
 </h1>
 
 <p align="center">
-  <code>Data intefrity</code> &nbsp;·&nbsp; <code>Backend Systems</code> &nbsp;·&nbsp; <code>Distributed Thinking</code>
+  <code>Data integrity</code> &nbsp;·&nbsp; <code>Backend Systems</code> &nbsp;·&nbsp; <code>Distributed Thinking</code>
 </p>
 
 <br/>
