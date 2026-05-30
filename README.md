@@ -23,7 +23,7 @@ Every byte has a place.
 
 ## `$ whoami`
 
-Third-year Statistics and Computer Science student at Helwan University with a strong mathematical foundation in statistical modeling, machine learning, and data engineering. Built production-grade pipelines processing with end-to-end systems and real-time simulation. Interested in the intersection of statistical rigor and applied data science.
+Statistics and Computer Science student at Helwan University. Interested in the intersection of statistical rigor and applied data science.
 
 <br/>
 
